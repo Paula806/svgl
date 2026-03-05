@@ -19,4 +19,4 @@
   <span>Open with</span>
   <V0 size={20} />
   <ArrowUpRightIcon size={14} class="text-neutral-500 dark:text-neutral-400" />
-</ExternalLink>
+
